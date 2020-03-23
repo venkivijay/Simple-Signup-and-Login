@@ -9,12 +9,12 @@ A simple user registration and authentication implemented using PHP, AJAX, JQUER
  ### Requirements
  
 
- - [ ] HTML, CSS, JS, PHP are in seperate files.
- - [ ] CSS written using Sass and both Sass file and compiled CSS files are in the CSS folder.
- - [ ] AJAX is used for form handling. (HTML form action not used.)
- - [ ] Bootstrap is used to make pages responsive.
- - [ ] No more than two fonts are used.
- - [ ] Images are in SVG only.
- - [ ] jQuery is used to simplify dom manipulations.
- - [ ] Data is stored in MySql database as well as in a JSON file.
- - [ ] Only prepared statements are used for database queries.
+ - [x] HTML, CSS, JS, PHP are in seperate files.
+ - [x] CSS written using Sass and both Sass file and compiled CSS files are in the CSS folder.
+ - [x] AJAX is used for form handling. (HTML form action not used.)
+ - [x] Bootstrap is used to make pages responsive.
+ - [x] No more than two fonts are used.
+ - [x] Images are in SVG only.
+ - [x] jQuery is used to simplify dom manipulations.
+ - [x] Data is stored in MySql database as well as in a JSON file.
+ - [x] Only prepared statements are used for database queries.
