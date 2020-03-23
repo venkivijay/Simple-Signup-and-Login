@@ -1,0 +1,12 @@
+[
+    {
+        "id": "1",
+        "name": "testuser",
+        "email": "testuser@test.com",
+        "password": "$2y$10$YF7GahGyfUmd75DKjXN.q.DctTzQ83Cnw.TU9hlHwGQ1b\/toysxku",
+        "age": null,
+        "dob": null,
+        "contact": null,
+        "timestamp": "2020-03-23 11:45:50"
+    }
+]
