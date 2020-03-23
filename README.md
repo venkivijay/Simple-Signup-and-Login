@@ -5,7 +5,7 @@ A simple user registration and authentication implemented using PHP, AJAX, JQUER
  2. Go to MySql dashboard and create a new database. Then import the `userAccount.sql` file to create a MySql table.
  3. Update database credentials in the `php/controllers/connectionController.php` as needed.
  4. Run the server.
-
+ 
  ### Requirements
  
 
@@ -18,3 +18,6 @@ A simple user registration and authentication implemented using PHP, AJAX, JQUER
  - [x] jQuery is used to simplify dom manipulations.
  - [x] Data is stored in MySql database as well as in a JSON file.
  - [x] Only prepared statements are used for database queries.
+
+### Demo Video
+[Drive](https://drive.google.com/file/d/1KudYld4WFyCAIyJINqKTujWaS5FHDBpC/view?usp=sharing)
